@@ -1,14 +1,14 @@
 ---
 title: "post1"
 <!-- date:  -->
-draft: true
+draft: false
 ---
 
-# post 1 
+# post 1
 this is a sample post.
-god help me with it. help others. make me invisible and he is visible. 
 
 this is list:
-- list item 1 
+- list item 1
 - item2
 - item3
+
