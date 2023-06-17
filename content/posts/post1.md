@@ -12,4 +12,3 @@ this is list:
 - list item 1 
 - item2
 - item3
-
